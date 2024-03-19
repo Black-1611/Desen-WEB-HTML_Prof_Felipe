@@ -1,15 +1,13 @@
-<!-- 
-Online HTML, CSS and JavaScript editor to run code online.
--->
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" <title> Minha Página Exemplo</title>
 </head>
-
 <body>
     <h1> Título da Página</h1>
     <h2> Subtítulo da Página</h2>
     <h3>Outro Nível de Subtítulo</h3>
+<p> Para acessar o Google, <a href="https://www.google.com">clique aqui</a>.</p>
+</body>
+</html>
